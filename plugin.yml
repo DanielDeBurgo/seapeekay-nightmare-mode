@@ -1,0 +1,5 @@
+name: SeaPeeKayNightmareMod
+version: 1.0
+author: GoBurDe
+main: com.goburde.cpknm.SeaPeeKayNightmareMode
+api-version: 1.14
